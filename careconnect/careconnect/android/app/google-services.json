@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "291256897659",
+    "firebase_url": "https://careconnect-386ae-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "careconnect-386ae",
+    "storage_bucket": "careconnect-386ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291256897659:android:d388eeaae7afdfb337d2de",
+        "android_client_info": {
+          "package_name": "com.example.careconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVKmUToctOwkxv6Ejyq9vvUBYWQsXpGj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
